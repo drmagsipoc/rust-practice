@@ -1,0 +1,6 @@
+[package]
+name = "generics"
+version = "0.1.0"
+authors = ["p_2 <30770254+drmagsipoc@users.noreply.github.com>"]
+
+[dependencies]
